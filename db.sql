@@ -1,7 +1,7 @@
 create database menuRestritoDB;
 use menuRestritoDB;
 
-create table cliente(
+create table clientes(
     id auto-increment NN,
     email varcahr primary-key NN,
     nome varchar NN,
